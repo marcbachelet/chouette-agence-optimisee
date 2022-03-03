@@ -651,7 +651,11 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #ffffff!important;
+    color: #000000!important;
+}
+
+.white-link a {
+    color: #ffffff;
 }
 
 .container {
