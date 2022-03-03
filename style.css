@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .2);
+    color: rgba(255, 255, 255, .9);
 }
 
 .d-bloc .a-btn:hover,
@@ -771,15 +771,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #ed6525;
 }
 
 .tc-white {
-    color: #ee6e33!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine {
-    background: #ec7a45;
+    background: #cf5015;
     color: #FFFFFF!important;
 }
 
