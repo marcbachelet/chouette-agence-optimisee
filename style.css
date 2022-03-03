@@ -654,7 +654,7 @@ a {
     color: #000000!important;
 }
 
-.white-link a {
+a.white-link {
     color: #ffffff;
 }
 
