@@ -655,7 +655,7 @@ a {
 }
 
 .col-sm-4 a.white-link {
-    color: #ffffff;
+    color: #ffffff!important;
 }
 
 .container {
